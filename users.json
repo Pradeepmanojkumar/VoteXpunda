@@ -1,0 +1,50 @@
+{
+    "admin@votex.com": {
+        "name": "admin",
+        "email": "admin@votex.com",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "Admin"
+    },
+    "shawn@gmail.com": {
+        "name": "shawn",
+        "email": "shawn@gmail.com",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "User"
+    },
+    "ssd@hmhm.im": {
+        "name": "balls",
+        "email": "ssd@hmhm.im",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "User"
+    },
+    "sd@gm.bo": {
+        "name": "goo",
+        "email": "sd@gm.bo",
+        "password": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "role": "User"
+    },
+    "gooner@gmial.cvom": {
+        "name": "goon man 69",
+        "email": "gooner@gmial.cvom",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "User"
+    },
+    "drf@g.o": {
+        "name": "goon",
+        "email": "drf@g.o",
+        "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+        "role": "User"
+    },
+    "wdw@rg.f": {
+        "name": "armaan",
+        "email": "wdw@rg.f",
+        "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+        "role": "User"
+    },
+    "ss@df.h": {
+        "name": "sam",
+        "email": "ss@df.h",
+        "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+        "role": "User"
+    }
+}

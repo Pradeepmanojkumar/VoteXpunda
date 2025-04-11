@@ -1,0 +1,43 @@
+[
+    {
+        "title": "sede",
+        "description": "adwwwd",
+        "options": [
+            "wdwd",
+            "wwddwdddddd",
+            "wddwqadw"
+        ],
+        "creator": "shawn",
+        "votes": {
+            "wdwd": 3,
+            "wwddwdddddd": 0,
+            "wddwqadw": 0
+        },
+        "voters": [
+            "shawn",
+            "goo",
+            "goon man 69"
+        ]
+    },
+    {
+        "title": "do u like ducks?",
+        "description": "hahahaha",
+        "options": [
+            "yea",
+            "nah",
+            "maybe"
+        ],
+        "creator": "shawn",
+        "votes": {
+            "yea": 3,
+            "nah": 0,
+            "maybe": 1
+        },
+        "voters": [
+            "shawn",
+            "goon",
+            "armaan",
+            "sam"
+        ]
+    }
+]
